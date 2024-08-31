@@ -1,4 +1,4 @@
-# Install script for directory: /Users/zzy/Documents/GitHub/Luogu_advanced/算法2-2-双指针/P1638_逛画展_gallery
+# Install script for directory: /Users/zzy/Documents/GitHub/Luogu_advanced/算法2-2-双指针/P1115_最大子段和_max_son_sum
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/zzy/Documents/GitHub/Luogu_advanced/算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/zzy/Documents/GitHub/Luogu_advanced/算法2-2-双指针/P1115_最大子段和_max_son_sum/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

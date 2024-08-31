@@ -1,4 +1,4 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/zzy/Documents/GitHub/Luogu_advanced/算法2-2-双指针/P1638_逛画展_gallery -B /Users/zzy/Documents/GitHub/Luogu_advanced/算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -S /Users/zzy/Documents/GitHub/Luogu_advanced/算法2-2-双指针/P1115_最大子段和_max_son_sum -B /Users/zzy/Documents/GitHub/Luogu_advanced/算法2-2-双指针/P1115_最大子段和_max_son_sum/cmake-build-debug
 -- The C compiler identification is AppleClang 15.0.0.15000309
 -- The CXX compiler identification is AppleClang 15.0.0.15000309
 -- Detecting C compiler ABI info
@@ -11,6 +11,6 @@
 -- Check for working CXX compiler: /Library/Developer/CommandLineTools/usr/bin/c++ - skipped
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
--- Configuring done (1.0s)
+-- Configuring done (4.7s)
 -- Generating done (0.0s)
--- Build files have been written to: /Users/zzy/Documents/GitHub/Luogu_advanced/算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug
+-- Build files have been written to: /Users/zzy/Documents/GitHub/Luogu_advanced/算法2-2-双指针/P1115_最大子段和_max_son_sum/cmake-build-debug

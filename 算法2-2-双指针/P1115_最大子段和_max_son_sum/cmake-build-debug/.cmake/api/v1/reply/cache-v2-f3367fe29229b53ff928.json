@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/\u56fe\u7684\u57fa\u672c\u5e94\u7528/P1638_\u901b\u753b\u5c55_gallery/cmake-build-debug"
+			"value" : "/Users/zzy/Documents/GitHub/Luogu_advanced/\u7b97\u6cd52-2-\u53cc\u6307\u9488/P1115_\u6700\u5927\u5b50\u6bb5\u548c_max_son_sum/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/\u56fe\u7684\u57fa\u672c\u5e94\u7528/P1638_\u901b\u753b\u5c55_gallery/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/zzy/Documents/GitHub/Luogu_advanced/\u7b97\u6cd52-2-\u53cc\u6307\u9488/P1115_\u6700\u5927\u5b50\u6bb5\u548c_max_son_sum/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -539,7 +539,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/\u56fe\u7684\u57fa\u672c\u5e94\u7528/P1638_\u901b\u753b\u5c55_gallery"
+			"value" : "/Users/zzy/Documents/GitHub/Luogu_advanced/\u7b97\u6cd52-2-\u53cc\u6307\u9488/P1115_\u6700\u5927\u5b50\u6bb5\u548c_max_son_sum"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -819,7 +819,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "P1638__gallery"
+			"value" : "P1115__max_son_sum"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1118,7 +1118,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "P1638__gallery_BINARY_DIR",
+			"name" : "P1115__max_son_sum_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1127,10 +1127,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/\u56fe\u7684\u57fa\u672c\u5e94\u7528/P1638_\u901b\u753b\u5c55_gallery/cmake-build-debug"
+			"value" : "/Users/zzy/Documents/GitHub/Luogu_advanced/\u7b97\u6cd52-2-\u53cc\u6307\u9488/P1115_\u6700\u5927\u5b50\u6bb5\u548c_max_son_sum/cmake-build-debug"
 		},
 		{
-			"name" : "P1638__gallery_IS_TOP_LEVEL",
+			"name" : "P1115__max_son_sum_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1142,7 +1142,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "P1638__gallery_SOURCE_DIR",
+			"name" : "P1115__max_son_sum_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1151,7 +1151,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/zzy/Documents/GitHub/luo-lanqiao_do-problems/\u56fe\u7684\u57fa\u672c\u5e94\u7528/P1638_\u901b\u753b\u5c55_gallery"
+			"value" : "/Users/zzy/Documents/GitHub/Luogu_advanced/\u7b97\u6cd52-2-\u53cc\u6307\u9488/P1115_\u6700\u5927\u5b50\u6bb5\u548c_max_son_sum"
 		}
 	],
 	"kind" : "cache",
