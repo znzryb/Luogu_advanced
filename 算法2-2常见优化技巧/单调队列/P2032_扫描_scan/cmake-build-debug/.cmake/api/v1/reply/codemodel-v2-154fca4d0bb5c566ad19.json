@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "P2032__scan",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "P2032__scan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P2032__scan-Debug-7d74dcfaf3fcdeff23d3.json",
+					"name" : "P2032__scan",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zzy/Documents/GitHub/Luogu_advanced/\u7b97\u6cd52-2\u5e38\u89c1\u4f18\u5316\u6280\u5de7/\u5355\u8c03\u961f\u5217/P2032_\u626b\u63cf_scan/cmake-build-debug",
+		"source" : "/Users/zzy/Documents/GitHub/Luogu_advanced/\u7b97\u6cd52-2\u5e38\u89c1\u4f18\u5316\u6280\u5de7/\u5355\u8c03\u961f\u5217/P2032_\u626b\u63cf_scan"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

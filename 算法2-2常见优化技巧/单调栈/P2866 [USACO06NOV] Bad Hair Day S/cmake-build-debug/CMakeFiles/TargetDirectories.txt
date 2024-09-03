@@ -1,0 +1,3 @@
+/Users/zzy/Documents/GitHub/Luogu_advanced/算法2-2常见优化技巧/单调栈/P2866 [USACO06NOV] Bad Hair Day S/cmake-build-debug/CMakeFiles/P2866__USACO06NOV__Bad_Hair_Day_S.dir
+/Users/zzy/Documents/GitHub/Luogu_advanced/算法2-2常见优化技巧/单调栈/P2866 [USACO06NOV] Bad Hair Day S/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zzy/Documents/GitHub/Luogu_advanced/算法2-2常见优化技巧/单调栈/P2866 [USACO06NOV] Bad Hair Day S/cmake-build-debug/CMakeFiles/rebuild_cache.dir

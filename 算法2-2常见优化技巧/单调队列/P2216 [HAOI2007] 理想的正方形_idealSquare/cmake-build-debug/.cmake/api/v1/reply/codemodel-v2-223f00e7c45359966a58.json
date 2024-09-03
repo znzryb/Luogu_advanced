@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "P2216__HAOI2007___idealSquare",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "P2216__HAOI2007___idealSquare::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P2216__HAOI2007___idealSquare-Debug-8ee52f6375a29757076f.json",
+					"name" : "P2216__HAOI2007___idealSquare",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zzy/Documents/GitHub/Luogu_advanced/\u7b97\u6cd52-2\u5e38\u89c1\u4f18\u5316\u6280\u5de7/\u5355\u8c03\u961f\u5217/P2216 [HAOI2007] \u7406\u60f3\u7684\u6b63\u65b9\u5f62_idealSquare/cmake-build-debug",
+		"source" : "/Users/zzy/Documents/GitHub/Luogu_advanced/\u7b97\u6cd52-2\u5e38\u89c1\u4f18\u5316\u6280\u5de7/\u5355\u8c03\u961f\u5217/P2216 [HAOI2007] \u7406\u60f3\u7684\u6b63\u65b9\u5f62_idealSquare"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

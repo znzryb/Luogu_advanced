@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "P7072__CSP_J2020__",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "P7072__CSP_J2020__::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P7072__CSP_J2020__-Debug-b71fd5ad54523364b580.json",
+					"name" : "P7072__CSP_J2020__",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zzy/Documents/GitHub/Luogu_advanced/\u7b97\u6cd52-2\u5e38\u89c1\u4f18\u5316\u6280\u5de7/P7072 [CSP-J2020] \u76f4\u64ad\u83b7\u5956/cmake-build-debug",
+		"source" : "/Users/zzy/Documents/GitHub/Luogu_advanced/\u7b97\u6cd52-2\u5e38\u89c1\u4f18\u5316\u6280\u5de7/P7072 [CSP-J2020] \u76f4\u64ad\u83b7\u5956"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

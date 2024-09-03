@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "P1115__max_son_sum",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "P1115__max_son_sum::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P1115__max_son_sum-Debug-c2cd9cb9994ff4fe845b.json",
+					"name" : "P1115__max_son_sum",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zzy/Documents/GitHub/Luogu_advanced/\u7b97\u6cd52-2\u5e38\u89c1\u4f18\u5316\u6280\u5de7/P1115_\u6700\u5927\u5b50\u6bb5\u548c_max_son_sum/cmake-build-debug",
+		"source" : "/Users/zzy/Documents/GitHub/Luogu_advanced/\u7b97\u6cd52-2\u5e38\u89c1\u4f18\u5316\u6280\u5de7/P1115_\u6700\u5927\u5b50\u6bb5\u548c_max_son_sum"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

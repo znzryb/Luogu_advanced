@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="P2671__NOIP2015___" targetName="P2671__NOIP2015___" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e3901ba-e149-497f-bc8f-2b38ff078dea" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1115_最大子段和_max_son_sum/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1115_最大子段和_max_son_sum/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1115_最大子段和_max_son_sum/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1115_最大子段和_max_son_sum/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1115_最大子段和_max_son_sum/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1115_最大子段和_max_son_sum/cmake-build-debug/.cmake/api/v1/reply/cache-v2-f3367fe29229b53ff928.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1115_最大子段和_max_son_sum/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-1a6df0d218999d841aa2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1115_最大子段和_max_son_sum/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-3f0b9e8fca4281aa23d5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1115_最大子段和_max_son_sum/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1115_最大子段和_max_son_sum/cmake-build-debug/.cmake/api/v1/reply/index-2024-08-31T13-44-01-0590.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1115_最大子段和_max_son_sum/cmake-build-debug/.cmake/api/v1/reply/target-P1115__max_son_sum-Debug-c2cd9cb9994ff4fe845b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1115_最大子段和_max_son_sum/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-bb57840159693364638b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1115_最大子段和_max_son_sum/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1115_最大子段和_max_son_sum/cmake-build-debug/CMakeFiles/3.28.1/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1115_最大子段和_max_son_sum/cmake-build-debug/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1115_最大子段和_max_son_sum/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1115_最大子段和_max_son_sum/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1115_最大子段和_max_son_sum/cmake-build-debug/CMakeFiles/3.28.1/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1115_最大子段和_max_son_sum/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1115_最大子段和_max_son_sum/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1115_最大子段和_max_son_sum/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1115_最大子段和_max_son_sum/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/CMakeCXXCompilerId.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1115_最大子段和_max_son_sum/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1115_最大子段和_max_son_sum/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1115_最大子段和_max_son_sum/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1115_最大子段和_max_son_sum/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1115_最大子段和_max_son_sum/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1115_最大子段和_max_son_sum/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1115_最大子段和_max_son_sum/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1115_最大子段和_max_son_sum/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1115_最大子段和_max_son_sum/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1115_最大子段和_max_son_sum/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1638_逛画展_gallery/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/.cmake/api/v1/query/cache-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/.cmake/api/v1/reply/cache-v2-f36b5434e5f8dd84bb63.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-d632dc5ef48a1d582ac9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-bdd9a5cdbb831747ddb2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/.cmake/api/v1/reply/index-2024-08-30T09-36-19-0318.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/.cmake/api/v1/reply/target-P1638__gallery-Debug-bf37d2ed558b4fb825c5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-bb57840159693364638b.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/.ninja_deps" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/.ninja_log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/CMakeFiles/3.28.1/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/CMakeFiles/3.28.1/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdC/CMakeCCompilerId.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/CMakeFiles/3.28.1/CompilerIdCXX/CMakeCXXCompilerId.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/CMakeFiles/P1638__gallery.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/P1638__gallery" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/build.ninja" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1638_逛画展_gallery/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2-双指针/P1638_逛画展_gallery/main.cpp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2024" />
+    <option name="minorVersion" value="1.4" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2lT7SUGfC5K6xsKlrYSxTlBCg2W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P2671__NOIP2015___" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="P2671__NOIP2015___" TARGET_NAME="P2671__NOIP2015___" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="P2671__NOIP2015___" RUN_TARGET_NAME="P2671__NOIP2015___">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e3901ba-e149-497f-bc8f-2b38ff078dea" name="Changes" comment="" />
+      <created>1725192212178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725192212178</updated>
+      <workItem from="1725192213629" duration="1785000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
