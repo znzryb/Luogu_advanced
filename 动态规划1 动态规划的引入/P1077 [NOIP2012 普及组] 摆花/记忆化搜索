@@ -1,0 +1,30 @@
+// #include <iostream>
+// using namespace std;
+// const int mod=1e6+7;
+// int n,m,a[105],ans,vis[105],memo[105][105];     // 第i种花不能超过ai盆
+// // 记忆化搜索
+// int dfs(int x,int cnt) {
+//     if(memo[x][cnt]!=0)
+//         return memo[x][cnt];
+//     for(int i=x;i<=n;i++) {
+//
+//     }
+// }
+// int main()
+// {
+//     cin>>n>>m;
+//     for(int i=1;i<=n;i++) {
+//         cin>>a[i];
+//         vis[i]=a[i];
+//     }
+//     for(int i=1;i<=n;i--) {
+//         if(vis[i]==0)
+//             continue;
+//         vis[i]-=1;
+//         dfs(i,1);
+//         vis[i]+=1;
+//     }
+//     cout<<ans<<endl;
+//     return 0;
+// }
+// // 40 https://www.luogu.com.cn/record/176525577

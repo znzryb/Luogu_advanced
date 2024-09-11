@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="P1434__SHOI2002___skiing" targetName="P1434__SHOI2002___skiing" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b3019163-370d-498d-a341-0521ce2084dd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../P1077 [NOIP2012 普及组] 摆花/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1077 [NOIP2012 普及组] 摆花/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1077 [NOIP2012 普及组] 摆花/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1077 [NOIP2012 普及组] 摆花/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1077 [NOIP2012 普及组] 摆花/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1077 [NOIP2012 普及组] 摆花/40pts-dfs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1077 [NOIP2012 普及组] 摆花/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1077 [NOIP2012 普及组] 摆花/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1077 [NOIP2012 普及组] 摆花/记忆化搜索" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1077_dp[NOIP2012 普及组] 摆花/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1077_dp[NOIP2012 普及组] 摆花/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P2196 [NOIP1996 提高组] 挖地雷/DFS-AC" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P3842 [TJOI2007] 线段_segment/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P3842 [TJOI2007] 线段_segment/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../测试C++性能/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../测试C++性能/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法2-1 前缀和_差分_离散化/P1496_火烧赤壁_离散化_Discrete/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法2-1 前缀和_差分_离散化/P1496_火烧赤壁_离散化_Discrete/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法2-2常见优化技巧/P4147_玉蟾宫/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法2-2常见优化技巧/P4147_玉蟾宫/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法2-2常见优化技巧/P4147_玉蟾宫/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法2-2常见优化技巧/P4147_玉蟾宫/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法2-2常见优化技巧/P4147_玉蟾宫/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法2-2常见优化技巧/单调栈/HISTOGRA - Largest Rectangle in a Histogram/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法2-2常见优化技巧/单调栈/HISTOGRA - Largest Rectangle in a Histogram/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法2-2常见优化技巧/单调栈/HISTOGRA - Largest Rectangle in a Histogram/单调栈-最后没调出来" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法2-2常见优化技巧/单调队列/P2032_扫描_scan/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法2-2常见优化技巧/单调队列/P2032_扫描_scan/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法2-2常见优化技巧/单调队列/P2032_扫描_scan/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法2-2常见优化技巧/单调队列/P2032_扫描_scan/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法2-2常见优化技巧/单调队列/P2032_扫描_scan/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法2-2常见优化技巧/单调队列/P2216 [HAOI2007] 理想的正方形_idealSquare/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法2-2常见优化技巧/单调队列/P2216 [HAOI2007] 理想的正方形_idealSquare/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法2-2常见优化技巧/单调队列/P2216 [HAOI2007] 理想的正方形_idealSquare/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法2-2常见优化技巧/单调队列/P2216 [HAOI2007] 理想的正方形_idealSquare/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法2-2常见优化技巧/单调队列/P2216 [HAOI2007] 理想的正方形_idealSquare/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2常见优化技巧/P4147_玉蟾宫/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法2-2常见优化技巧/P4147_玉蟾宫/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2常见优化技巧/P4147_玉蟾宫/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法2-2常见优化技巧/P4147_玉蟾宫/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2024" />
+    <option name="minorVersion" value="1.4" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2ls0IGessnTYUssK8PNXGDpg8oL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CMake Application.P1434__SHOI2002___skiing.executor": "Run",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P1434__SHOI2002___skiing" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="P1434__SHOI2002___skiing" TARGET_NAME="P1434__SHOI2002___skiing" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="P1434__SHOI2002___skiing" RUN_TARGET_NAME="P1434__SHOI2002___skiing">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b3019163-370d-498d-a341-0521ce2084dd" name="Changes" comment="" />
+      <created>1725953394120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725953394120</updated>
+      <workItem from="1725953395344" duration="6403000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+</project>

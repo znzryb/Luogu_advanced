@@ -1,0 +1,3 @@
+/Users/zzy/Documents/GitHub/Luogu_advanced/动态规划1 动态规划的引入/P1434 [SHOI2002] 滑雪_skiing/cmake-build-debug/CMakeFiles/P1434__SHOI2002___skiing.dir
+/Users/zzy/Documents/GitHub/Luogu_advanced/动态规划1 动态规划的引入/P1434 [SHOI2002] 滑雪_skiing/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zzy/Documents/GitHub/Luogu_advanced/动态规划1 动态规划的引入/P1434 [SHOI2002] 滑雪_skiing/cmake-build-debug/CMakeFiles/rebuild_cache.dir

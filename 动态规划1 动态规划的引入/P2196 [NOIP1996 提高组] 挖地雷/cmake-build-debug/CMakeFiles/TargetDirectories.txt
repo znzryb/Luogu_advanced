@@ -1,0 +1,3 @@
+/Users/zzy/Documents/GitHub/Luogu_advanced/动态规划1 动态规划的引入/P2196 [NOIP1996 提高组] 挖地雷/cmake-build-debug/CMakeFiles/P2196__NOIP1996___.dir
+/Users/zzy/Documents/GitHub/Luogu_advanced/动态规划1 动态规划的引入/P2196 [NOIP1996 提高组] 挖地雷/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zzy/Documents/GitHub/Luogu_advanced/动态规划1 动态规划的引入/P2196 [NOIP1996 提高组] 挖地雷/cmake-build-debug/CMakeFiles/rebuild_cache.dir

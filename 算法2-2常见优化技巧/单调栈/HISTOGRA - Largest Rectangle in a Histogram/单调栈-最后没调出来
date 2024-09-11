@@ -1,0 +1,33 @@
+// #include <iostream>
+// #include <deque>
+// using namespace std;
+// int n,cnt;
+// deque<long long int> hs;   // h stack
+// const int maxn=1e5+10;
+// long long int h[maxn],popH,ans,minH;
+// int main()
+// {
+//     while(true) {
+//         hs={},ans=0;
+//         cin>>n;
+//         if(n==0)
+//             break;
+//         for(int i=1;i<=n;i++) {
+//             cin>>h[i];
+//         }
+//         h[n+1]=0;
+//         // 挡板宽度
+//         for(int i=1;i<=n+1;i++) {
+//             while(!hs.empty() && hs.back()>h[i]) {
+//                 popH=hs.back();
+//                 hs.pop_back();
+//                 cnt+=1;
+//                 ans=max(ans,cnt*popH);
+//             }
+//             hs.push_back(h[i]);
+//         }
+//
+//         cout<<ans<<endl;
+//     }
+//     return 0;
+// }

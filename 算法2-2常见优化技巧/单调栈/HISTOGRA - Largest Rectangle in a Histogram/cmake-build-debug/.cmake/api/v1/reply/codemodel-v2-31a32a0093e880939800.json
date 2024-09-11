@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "HISTOGRA___Largest_Rectangle_in_a_Histogram",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "HISTOGRA___Largest_Rectangle_in_a_Histogram::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HISTOGRA___Largest_Rectangle_in_a_Histogram-Debug-95df6bd0af1113fd13e7.json",
+					"name" : "HISTOGRA___Largest_Rectangle_in_a_Histogram",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zzy/Documents/GitHub/Luogu_advanced/\u7b97\u6cd52-2\u5e38\u89c1\u4f18\u5316\u6280\u5de7/\u5355\u8c03\u6808/HISTOGRA - Largest Rectangle in a Histogram/cmake-build-debug",
+		"source" : "/Users/zzy/Documents/GitHub/Luogu_advanced/\u7b97\u6cd52-2\u5e38\u89c1\u4f18\u5316\u6280\u5de7/\u5355\u8c03\u6808/HISTOGRA - Largest Rectangle in a Histogram"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

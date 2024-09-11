@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "P1434__SHOI2002___skiing",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "P1434__SHOI2002___skiing::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P1434__SHOI2002___skiing-Debug-590a61903f7ddba59bca.json",
+					"name" : "P1434__SHOI2002___skiing",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zzy/Documents/GitHub/Luogu_advanced/\u52a8\u6001\u89c4\u52121 \u52a8\u6001\u89c4\u5212\u7684\u5f15\u5165/P1434 [SHOI2002] \u6ed1\u96ea_skiing/cmake-build-debug",
+		"source" : "/Users/zzy/Documents/GitHub/Luogu_advanced/\u52a8\u6001\u89c4\u52121 \u52a8\u6001\u89c4\u5212\u7684\u5f15\u5165/P1434 [SHOI2002] \u6ed1\u96ea_skiing"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
