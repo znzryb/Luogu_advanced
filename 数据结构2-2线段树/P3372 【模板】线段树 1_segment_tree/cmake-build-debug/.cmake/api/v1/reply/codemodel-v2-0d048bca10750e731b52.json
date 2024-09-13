@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "P3372__1_segment_tree",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "P3372__1_segment_tree::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P3372__1_segment_tree-Debug-cd00a9caca1a05ef6bc1.json",
+					"name" : "P3372__1_segment_tree",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zzy/Documents/GitHub/Luogu_advanced/\u6570\u636e\u7ed3\u67842-2\u7ebf\u6bb5\u6811/P3372 \u3010\u6a21\u677f\u3011\u7ebf\u6bb5\u6811 1_segment_tree/cmake-build-debug",
+		"source" : "/Users/zzy/Documents/GitHub/Luogu_advanced/\u6570\u636e\u7ed3\u67842-2\u7ebf\u6bb5\u6811/P3372 \u3010\u6a21\u677f\u3011\u7ebf\u6bb5\u6811 1_segment_tree"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
