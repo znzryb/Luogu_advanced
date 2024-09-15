@@ -2,7 +2,7 @@
 using namespace std;
 int n,m,op,x,y;
 const int maxn=1e6+10,maxn4=4*maxn;
-long long int a[maxn],sumA[maxn],k,lazy[maxn4];
+long long int a[maxn],sumA[maxn],k,lazy[maxn4],result;
 struct rangeSES {
     long long int s;long long int e;long long int sumR;
 }tree[maxn4];
@@ -24,29 +24,53 @@ bool isIntegrate(int x,int y,int fa) {  // 检查两区间是否有交集
     return true;
 }
 
-void add(int x,int y,int fa,long long int k) {    // 对大区间进行加减
-    if(tree[fa].s<=x && tree[fa].e>=y)
-        tree[fa].sumR+=k*(y-x+1);
-    else if(tree[fa].s>=x && tree[fa].e<=y) {
-        tree[fa].sumR+=k*(tree[fa].e-tree[fa].s+1);
-    }else if(x>=tree[fa].s && y>=tree[fa].e) {
-        tree[fa].sumR+=k*(tree[fa].e-x+1);
-    }else if(tree[fa].s>=x && tree[fa].e>=y) {
-        tree[fa].sumR+=k*(y-tree[fa].s+1);
-    }
-}
-
 void modify(int x,int y,long long int k,int fa){
+    // 下传lazy标记
+    if(lazy[fa]!=0 && tree[fa].s!=tree[fa].e) {
+        int lson=fa<<1,rson=lson+1;
+        tree[lson].sumR+=(tree[lson].e-tree[lson].s+1)*lazy[fa];
+        lazy[lson]+=lazy[fa];
+        tree[rson].sumR+=(tree[rson].e-tree[rson].s+1)*lazy[fa];
+        lazy[rson]+=lazy[fa];
+        lazy[fa]=0;
+    }
     if(!isIntegrate(x,y,fa)) {
         return;
     }
-    add(x,y,fa,k);
-    modify(x,y,k,(fa<<1)+1);
-    modify(x,y,k,fa<<1);
+    if(tree[fa].s>=x && tree[fa].e<=y) {
+        lazy[fa]+=k;
+        long long int add=k*(tree[fa].e-tree[fa].s+1);
+        tree[fa].sumR+=add;
+        while(fa>>=1) {
+            tree[fa].sumR+=add;
+        }
+    }else {
+        modify(x,y,k,(fa<<1)+1);
+        modify(x,y,k,fa<<1);
+    }
 }
-void search(int x,int y) {
 
+void search(int x,int y,int fa) {
+    // 下传lazy标记
+    if(lazy[fa]!=0 && tree[fa].s!=tree[fa].e) {
+        int lson=fa<<1,rson=lson+1;
+        tree[lson].sumR+=(tree[lson].e-tree[lson].s+1)*lazy[fa];
+        lazy[lson]+=lazy[fa];
+        tree[rson].sumR+=(tree[rson].e-tree[rson].s+1)*lazy[fa];
+        lazy[rson]+=lazy[fa];
+        lazy[fa]=0;
+    }
+    if(!isIntegrate(x,y,fa)) {
+        return;
+    }
+    if(tree[fa].s>=x && tree[fa].e<=y) {
+        result+=tree[fa].sumR;
+    }else {
+        search(x,y,(fa<<1)+1);
+        search(x,y,fa<<1);
+    }
 }
+
 int main()
 {
     ios::sync_with_stdio(false);
@@ -62,13 +86,15 @@ int main()
     // build tree
     tree[1].s=1,tree[1].e=n,tree[1].sumR=sumA[n];
     buildTree(1);
-    while(m--) {
+    for(int _=1;_<=m;_++) {
         cin>>op>>x>>y;
         if(op==1) {
             cin>>k;
             modify(x,y,k,1);
         }else if(op==2) {
-            search(x,y);
+            result=0;
+            search(x,y,1);
+            cout<<result<<endl;
         }
     }
 
@@ -84,3 +110,4 @@ int main()
     }
     return 0;
 }
+// AC https://www.luogu.com.cn/record/176825101
