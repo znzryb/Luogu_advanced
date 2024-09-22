@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "P3373_segment_tree_multiple",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "P3373_segment_tree_multiple::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P3373_segment_tree_multiple-Debug-4041345949a11b4198e0.json",
+					"name" : "P3373_segment_tree_multiple",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zzy/Documents/GitHub/Luogu_advanced/\u6570\u636e\u7ed3\u67842-2\u7ebf\u6bb5\u6811/P3373_segment_tree_multiple/cmake-build-debug",
+		"source" : "/Users/zzy/Documents/GitHub/Luogu_advanced/\u6570\u636e\u7ed3\u67842-2\u7ebf\u6bb5\u6811/P3373_segment_tree_multiple"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "P1253_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "P1253_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-P1253_-Debug-5460be6f933d7ab1a60a.json",
+					"name" : "P1253_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zzy/Documents/GitHub/Luogu_advanced/\u6570\u636e\u7ed3\u67842-2\u7ebf\u6bb5\u6811/P1253_\u6276\u82cf\u7684\u95ee\u9898/cmake-build-debug",
+		"source" : "/Users/zzy/Documents/GitHub/Luogu_advanced/\u6570\u636e\u7ed3\u67842-2\u7ebf\u6bb5\u6811/P1253_\u6276\u82cf\u7684\u95ee\u9898"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

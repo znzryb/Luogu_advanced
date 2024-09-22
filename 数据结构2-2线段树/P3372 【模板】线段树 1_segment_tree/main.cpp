@@ -99,15 +99,15 @@ int main()
     }
 
     // 以下为调试用代码
-    cout<<endl;
-    for(int i=1;i<=n*4;i++) {
-        cout<<tree[i].s<<" "<<tree[i].e<<" "<<tree[i].sumR<<endl;
-    }
-    cout<<endl;
-    cout<<"lazy"<<endl;
-    for(int i=1;i<=n*4;i++) {
-        cout<<tree[i].s<<" "<<tree[i].e<<" "<<lazy[i]<<endl;
-    }
+    // cout<<endl;
+    // for(int i=1;i<=n*4;i++) {
+    //     cout<<tree[i].s<<" "<<tree[i].e<<" "<<tree[i].sumR<<endl;
+    // }
+    // cout<<endl;
+    // cout<<"lazy"<<endl;
+    // for(int i=1;i<=n*4;i++) {
+    //     cout<<tree[i].s<<" "<<tree[i].e<<" "<<lazy[i]<<endl;
+    // }
     return 0;
 }
 // AC https://www.luogu.com.cn/record/176825101

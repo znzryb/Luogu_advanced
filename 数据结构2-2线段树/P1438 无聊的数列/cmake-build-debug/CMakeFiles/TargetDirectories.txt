@@ -1,0 +1,3 @@
+/Users/zzy/Documents/GitHub/Luogu_advanced/数据结构2-2线段树/P1438 无聊的数列/cmake-build-debug/CMakeFiles/P1438_.dir
+/Users/zzy/Documents/GitHub/Luogu_advanced/数据结构2-2线段树/P1438 无聊的数列/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zzy/Documents/GitHub/Luogu_advanced/数据结构2-2线段树/P1438 无聊的数列/cmake-build-debug/CMakeFiles/rebuild_cache.dir
