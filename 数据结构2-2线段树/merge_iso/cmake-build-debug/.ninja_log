@@ -1,0 +1,5 @@
+# ninja log v6
+1	302	1727095164229589415	CMakeFiles/merge_iso.dir/main.cpp.o	19e64fd1c17acc90
+303	392	1727095164531797681	merge_iso	337c8e604eba9fda
+3	374	1727095255260078125	CMakeFiles/merge_iso.dir/main.cpp.o	19e64fd1c17acc90
+374	468	1727095255630588774	merge_iso	337c8e604eba9fda

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Color_the_ball_HDU___1556" targetName="Color_the_ball_HDU___1556" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d5020eec-70e7-472b-a5f4-97ea75d929d2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P1099_NOIP2007_提高组_树网的核_coreOfTree/.idea/P1099_NOIP2007_提高组_树网的核_coreOfTree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P1099_NOIP2007_提高组_树网的核_coreOfTree/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P1099_NOIP2007_提高组_树网的核_coreOfTree/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P1364_医院设置_weightCore/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P1364_医院设置_weightCore/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P1364_医院设置_weightCore/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P1364_医院设置_weightCore/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P1364_医院设置_weightCore/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P1364_医院设置_weightCore/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P1364_医院设置_weightCore/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P1395_会议_meeting_weightCore/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P1395_会议_meeting_weightCore/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P1395_会议_meeting_weightCore/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P1395_会议_meeting_weightCore/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P1395_会议_meeting_weightCore/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P1395_会议_meeting_weightCore/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P1395_会议_meeting_weightCore/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P1395_会议_meeting_weightCore/主要思路.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P1395_会议_meeting_weightCore/文件存档" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P1395_会议_meeting_weightCore/重心定义.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P2491_SDOI2011_消防/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P2491_SDOI2011_消防/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P2491_SDOI2011_消防/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P2491_SDOI2011_消防/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P2491_SDOI2011_消防/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P2491_SDOI2011_消防/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P2491_SDOI2011_消防/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P2491_SDOI2011_消防/路径必然经过中心的证明.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P2986 [USACO10MAR] Great Cow Gathering G/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P2986 [USACO10MAR] Great Cow Gathering G/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P3379_模板_最近公共祖先_LCA/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P3379_模板_最近公共祖先_LCA/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P5908_猫猫和企鹅_cat_penguin/.idea/P5908_猫猫和企鹅_cat_penguin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P5908_猫猫和企鹅_cat_penguin/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P5908_猫猫和企鹅_cat_penguin/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P5908_猫猫和企鹅_cat_penguin/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P5908_猫猫和企鹅_cat_penguin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P5908_猫猫和企鹅_cat_penguin/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P5908_猫猫和企鹅_cat_penguin/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P5908_猫猫和企鹅_cat_penguin/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../数据结构2-2线段树/P4513_greenHand_park_MaxSonSum/.idea/P4513_greenHand_park_MaxSonSum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../数据结构2-2线段树/P4513_greenHand_park_MaxSonSum/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../数据结构2-2线段树/P4513_greenHand_park_MaxSonSum/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../数据结构2-2线段树/P4513_greenHand_park_MaxSonSum/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../数据结构2-2线段树/P4513_greenHand_park_MaxSonSum/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../数据结构2-2线段树/P4513_greenHand_park_MaxSonSum/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../数据结构2-2线段树/P4513_greenHand_park_MaxSonSum/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../数据结构2-2线段树/P4513_greenHand_park_MaxSonSum/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../数据结构2-2线段树/P4513_小白逛公园/modifyError" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../数据结构2-2线段树/P4513_小白逛公园/线段树最大子段和单点修改" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../数据结构2-2线段树/merge_iso/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../数据结构2-2线段树/merge_iso/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P1496_火烧赤壁_离散化_Discrete/离散化代码" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法2-2常见优化技巧/算法2-2-双指针/P1638_逛画展_gallery/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法2-2常见优化技巧/算法2-2-双指针/P1638_逛画展_gallery/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法2-2常见优化技巧/算法2-2-双指针/P1638_逛画展_gallery/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法2-2常见优化技巧/算法2-2-双指针/P1638_逛画展_gallery/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../算法2-2常见优化技巧/算法2-2-双指针/P1638_逛画展_gallery/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../数据结构2-2线段树/P1253_扶苏的问题/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../数据结构2-2线段树/P1253_扶苏的问题/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../数据结构2-2线段树/P4513_小白逛公园/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../../数据结构2-2线段树/P4513_小白逛公园/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../数据结构2-2线段树/P4513_小白逛公园/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../../数据结构2-2线段树/P4513_小白逛公园/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../数据结构2-2线段树/P4513_小白逛公园/cmake-build-debug/CMakeFiles/P4513_.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../数据结构2-2线段树/P4513_小白逛公园/cmake-build-debug/CMakeFiles/P4513_.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../数据结构2-2线段树/P4513_小白逛公园/cmake-build-debug/P4513_" beforeDir="false" afterPath="$PROJECT_DIR$/../../数据结构2-2线段树/P4513_小白逛公园/cmake-build-debug/P4513_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../数据结构2-2线段树/P4513_小白逛公园/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../数据结构2-2线段树/P4513_小白逛公园/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../数据结构2-2线段树/P4513_小白逛公园/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../数据结构2-2线段树/P4513_小白逛公园/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P1496_火烧赤壁_离散化_Discrete/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../P1496_火烧赤壁_离散化_Discrete/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P1496_火烧赤壁_离散化_Discrete/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../P1496_火烧赤壁_离散化_Discrete/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P1496_火烧赤壁_离散化_Discrete/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../P1496_火烧赤壁_离散化_Discrete/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P1496_火烧赤壁_离散化_Discrete/cmake-build-debug/CMakeFiles/P1496___Discrete.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../P1496_火烧赤壁_离散化_Discrete/cmake-build-debug/CMakeFiles/P1496___Discrete.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P1496_火烧赤壁_离散化_Discrete/cmake-build-debug/P1496___Discrete" beforeDir="false" afterPath="$PROJECT_DIR$/../P1496_火烧赤壁_离散化_Discrete/cmake-build-debug/P1496___Discrete" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P1496_火烧赤壁_离散化_Discrete/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../P1496_火烧赤壁_离散化_Discrete/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P1496_火烧赤壁_离散化_Discrete/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../P1496_火烧赤壁_离散化_Discrete/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2常见优化技巧/单调队列/P2032_扫描_scan/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法2-2常见优化技巧/单调队列/P2032_扫描_scan/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2常见优化技巧/单调队列/P2032_扫描_scan/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法2-2常见优化技巧/单调队列/P2032_扫描_scan/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2常见优化技巧/算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/.cmake/api/v1/reply/cache-v2-f36b5434e5f8dd84bb63.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2常见优化技巧/算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-d632dc5ef48a1d582ac9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2常见优化技巧/算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-bdd9a5cdbb831747ddb2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2常见优化技巧/算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/.cmake/api/v1/reply/index-2024-08-30T09-36-19-0318.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2常见优化技巧/算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法2-2常见优化技巧/算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2常见优化技巧/算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法2-2常见优化技巧/算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2常见优化技巧/算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法2-2常见优化技巧/算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2常见优化技巧/算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法2-2常见优化技巧/算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2常见优化技巧/算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法2-2常见优化技巧/算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2常见优化技巧/算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法2-2常见优化技巧/算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2常见优化技巧/算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/CMakeFiles/P1638__gallery.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2常见优化技巧/算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法2-2常见优化技巧/算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2常见优化技巧/算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法2-2常见优化技巧/算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2常见优化技巧/算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法2-2常见优化技巧/算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2常见优化技巧/算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法2-2常见优化技巧/算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2常见优化技巧/算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法2-2常见优化技巧/算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../算法2-2常见优化技巧/算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../../算法2-2常见优化技巧/算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2024" />
+    <option name="minorVersion" value="1.4" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2mepIFahINaDEnlJKrGPX0pzbea" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CMake Application.Color_the_ball_HDU___1556.executor": "Run",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Color_the_ball_HDU___1556" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Color_the_ball_HDU___1556" TARGET_NAME="Color_the_ball_HDU___1556" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Color_the_ball_HDU___1556" RUN_TARGET_NAME="Color_the_ball_HDU___1556">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5020eec-70e7-472b-a5f4-97ea75d929d2" name="Changes" comment="" />
+      <created>1727446814809</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727446814809</updated>
+      <workItem from="1727446816017" duration="1492000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+</project>

@@ -1,0 +1,3 @@
+/Users/zzy/Documents/GitHub/Luogu_advanced/图论2-1树/P2491_SDOI2011_消防/cmake-build-debug/CMakeFiles/P2491_SDOI2011_.dir
+/Users/zzy/Documents/GitHub/Luogu_advanced/图论2-1树/P2491_SDOI2011_消防/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zzy/Documents/GitHub/Luogu_advanced/图论2-1树/P2491_SDOI2011_消防/cmake-build-debug/CMakeFiles/rebuild_cache.dir

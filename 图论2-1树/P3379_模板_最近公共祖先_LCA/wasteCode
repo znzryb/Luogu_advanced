@@ -1,0 +1,83 @@
+#include <iostream>
+#include <vector>
+#include <queue>
+#include <cmath>
+#include <bitset>
+using namespace std;
+const int maxn=500007;
+int n,m,root,a,b,dep[maxn],lg[maxn],pa[maxn][24];   // 2^0 2^1 2^2....的parent
+bool vis[maxn];
+vector<int> g[maxn];
+void dfs(int x,int deep,int fa) {       // O(nlogn)
+    dep[x]=deep;
+    pa[x][0]=fa;
+    for(int j=1;j<lg[deep];j++) {
+        pa[x][j]=pa[pa[x][j-1]][j-1];   // 2^i = 2^(i-1) + 2^(i-1)  [j-1]是指提升2^(j-1)
+    }
+    for(int i=0;i<g[x].size();i++) {
+        int son=g[x][i];
+        if(!vis[son]) {
+            vis[son]=true;
+            dfs(son,deep+1,x);
+        }
+    }
+}
+void query(int a,int b) {
+    if(a==b) {
+        cout<<a<<endl;
+        return;
+    }
+    if(dep[a]>dep[b])
+        swap(a,b);
+    // int closePab=b;
+    // if(dep[a]!=dep[b]) {
+    //     for(int i=lg[dep[b]]-1;i>=0;i--) {
+    //         if(dep[pa[b][i]] <= dep[a]) closePab=pa[b][i];
+    //     }
+    //     while(dep[closePab]!=dep[a]) {  // 往上提升到同一深度
+    //         for(int i=lg[dep[closePab]]-1;i>=0;i--) {
+    //             if(dep[pa[closePab][i]] <= dep[a]) closePab=pa[closePab][i];
+    //         }
+    //     }
+    // }
+    //
+    // int closePaa=a;
+    // if(closePab==closePaa) {
+    //     cout<<a<<endl;
+    //     return;
+    // }
+    // while (pa[closePab][0]!=pa[closePaa][0]) {
+    //     for(int i=lg[dep[closePab]]-1;i>=0;i--) {
+    //         if(pa[closePab][i]!=pa[closePaa][i])
+    //             closePab=pa[closePab][i],closePaa=pa[closePaa][i];
+    //     }
+    // }
+    // cout<<pa[closePab][0]<<endl;
+}
+int main()
+{
+    ios::sync_with_stdio(false);
+    cin.tie(0);cout.tie(0);
+    cin>>n>>m>>root;
+    for(int i=1;i<=n-1;i++) {
+        cin>>a>>b;
+        g[a].push_back(b);
+        g[b].push_back(a);
+    }
+    for(int i=1;i<=n;++i) {
+        lg[i]=lg[i-1]+(1 << lg[i-1] == i);  // 0 1 2 2 3 3 3
+    }
+    vis[root]=true;
+    dfs(root,1,0);
+    for(int _=1;_<=m;++_) {
+        cin>>a>>b;
+        query(a,b);
+    }
+    // debug
+    // for(int i=1;i<=n;i++) {
+    //     for(int j=0;j<10;j++)
+    //         cout<<pa[i][j]<<" ";
+    //     cout<<endl;
+    // }
+    return 0;
+}

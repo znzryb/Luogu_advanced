@@ -42,7 +42,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake --regenerate-during-build -S/Users/zzy/Documents/GitHub/Luogu_advanced/算法2-2-双指针/P1638_逛画展_gallery -B/Users/zzy/Documents/GitHub/Luogu_advanced/算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug
+  command = /Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake --regenerate-during-build -S/Users/zzy/Documents/GitHub/Luogu_advanced/算法2-2常见优化技巧/算法2-2-双指针/P1638_逛画展_gallery -B/Users/zzy/Documents/GitHub/Luogu_advanced/算法2-2常见优化技巧/算法2-2-双指针/P1638_逛画展_gallery/cmake-build-debug
   description = Re-running CMake...
   generator = 1
 

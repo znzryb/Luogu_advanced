@@ -1,0 +1,3 @@
+/Users/zzy/Documents/GitHub/Luogu_advanced/图论2-1树/P2986 [USACO10MAR] Great Cow Gathering G/cmake-build-debug/CMakeFiles/P2986__USACO10MAR__Great_Cow_Gathering_G.dir
+/Users/zzy/Documents/GitHub/Luogu_advanced/图论2-1树/P2986 [USACO10MAR] Great Cow Gathering G/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zzy/Documents/GitHub/Luogu_advanced/图论2-1树/P2986 [USACO10MAR] Great Cow Gathering G/cmake-build-debug/CMakeFiles/rebuild_cache.dir

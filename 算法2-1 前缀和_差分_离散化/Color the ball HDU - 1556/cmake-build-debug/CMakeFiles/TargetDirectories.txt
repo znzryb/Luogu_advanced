@@ -1,0 +1,3 @@
+/Users/zzy/Documents/GitHub/Luogu_advanced/算法2-1 前缀和_差分_离散化/Color the ball HDU - 1556/cmake-build-debug/CMakeFiles/Color_the_ball_HDU___1556.dir
+/Users/zzy/Documents/GitHub/Luogu_advanced/算法2-1 前缀和_差分_离散化/Color the ball HDU - 1556/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zzy/Documents/GitHub/Luogu_advanced/算法2-1 前缀和_差分_离散化/Color the ball HDU - 1556/cmake-build-debug/CMakeFiles/rebuild_cache.dir

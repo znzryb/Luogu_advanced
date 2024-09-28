@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="merge_iso" targetName="merge_iso" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6747fcd1-82d4-4865-835c-059c476a6f12" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P1099_NOIP2007_提高组_树网的核_coreOfTree/.idea/P1099_NOIP2007_提高组_树网的核_coreOfTree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P1099_NOIP2007_提高组_树网的核_coreOfTree/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P1099_NOIP2007_提高组_树网的核_coreOfTree/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P5908_猫猫和企鹅_cat_penguin/.idea/P5908_猫猫和企鹅_cat_penguin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P5908_猫猫和企鹅_cat_penguin/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P5908_猫猫和企鹅_cat_penguin/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P5908_猫猫和企鹅_cat_penguin/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P5908_猫猫和企鹅_cat_penguin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P5908_猫猫和企鹅_cat_penguin/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P5908_猫猫和企鹅_cat_penguin/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../图论2-1树/P5908_猫猫和企鹅_cat_penguin/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P4513_greenHand_park_MaxSonSum/.idea/P4513_greenHand_park_MaxSonSum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P4513_greenHand_park_MaxSonSum/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P4513_greenHand_park_MaxSonSum/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P4513_greenHand_park_MaxSonSum/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P4513_greenHand_park_MaxSonSum/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P4513_greenHand_park_MaxSonSum/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P4513_greenHand_park_MaxSonSum/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P4513_greenHand_park_MaxSonSum/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P4513_小白逛公园/modifyError" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P4513_小白逛公园/线段树最大子段和单点修改" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P1253_扶苏的问题/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../P1253_扶苏的问题/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P4513_小白逛公园/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../P4513_小白逛公园/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P4513_小白逛公园/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../P4513_小白逛公园/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P4513_小白逛公园/cmake-build-debug/CMakeFiles/P4513_.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../P4513_小白逛公园/cmake-build-debug/CMakeFiles/P4513_.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P4513_小白逛公园/cmake-build-debug/P4513_" beforeDir="false" afterPath="$PROJECT_DIR$/../P4513_小白逛公园/cmake-build-debug/P4513_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P4513_小白逛公园/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../P4513_小白逛公园/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../P4513_小白逛公园/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../P4513_小白逛公园/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2024" />
+    <option name="minorVersion" value="1.4" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2mTKFYHDC7TmK1RyvFTu7VDwGE1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CMake Application.merge_iso.executor": "Run",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="merge_iso" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="merge_iso" TARGET_NAME="merge_iso" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="merge_iso" RUN_TARGET_NAME="merge_iso">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6747fcd1-82d4-4865-835c-059c476a6f12" name="Changes" comment="" />
+      <created>1727095022577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727095022577</updated>
+      <workItem from="1727095023808" duration="2467000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+</project>

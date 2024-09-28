@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="P1638__gallery" targetName="P1638__gallery" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="95312078-76ce-4142-bf21-8201869930dc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../图论2-1树/P1099_NOIP2007_提高组_树网的核_coreOfTree/.idea/P1099_NOIP2007_提高组_树网的核_coreOfTree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../图论2-1树/P1099_NOIP2007_提高组_树网的核_coreOfTree/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../图论2-1树/P1099_NOIP2007_提高组_树网的核_coreOfTree/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../图论2-1树/P5908_猫猫和企鹅_cat_penguin/.idea/P5908_猫猫和企鹅_cat_penguin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../图论2-1树/P5908_猫猫和企鹅_cat_penguin/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../图论2-1树/P5908_猫猫和企鹅_cat_penguin/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../图论2-1树/P5908_猫猫和企鹅_cat_penguin/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../图论2-1树/P5908_猫猫和企鹅_cat_penguin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../图论2-1树/P5908_猫猫和企鹅_cat_penguin/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../图论2-1树/P5908_猫猫和企鹅_cat_penguin/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../图论2-1树/P5908_猫猫和企鹅_cat_penguin/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../数据结构2-2线段树/P4513_greenHand_park_MaxSonSum/.idea/P4513_greenHand_park_MaxSonSum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../数据结构2-2线段树/P4513_greenHand_park_MaxSonSum/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../数据结构2-2线段树/P4513_greenHand_park_MaxSonSum/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../数据结构2-2线段树/P4513_greenHand_park_MaxSonSum/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../数据结构2-2线段树/P4513_greenHand_park_MaxSonSum/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../数据结构2-2线段树/P4513_greenHand_park_MaxSonSum/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../数据结构2-2线段树/P4513_greenHand_park_MaxSonSum/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../数据结构2-2线段树/P4513_greenHand_park_MaxSonSum/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../数据结构2-2线段树/P4513_小白逛公园/modifyError" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../数据结构2-2线段树/P4513_小白逛公园/线段树最大子段和单点修改" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../数据结构2-2线段树/merge_iso/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../数据结构2-2线段树/merge_iso/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../数据结构2-2线段树/P1253_扶苏的问题/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../数据结构2-2线段树/P1253_扶苏的问题/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../数据结构2-2线段树/P4513_小白逛公园/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../../../数据结构2-2线段树/P4513_小白逛公园/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../数据结构2-2线段树/P4513_小白逛公园/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../数据结构2-2线段树/P4513_小白逛公园/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../数据结构2-2线段树/P4513_小白逛公园/cmake-build-debug/CMakeFiles/P4513_.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../../../数据结构2-2线段树/P4513_小白逛公园/cmake-build-debug/CMakeFiles/P4513_.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../数据结构2-2线段树/P4513_小白逛公园/cmake-build-debug/P4513_" beforeDir="false" afterPath="$PROJECT_DIR$/../../../数据结构2-2线段树/P4513_小白逛公园/cmake-build-debug/P4513_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../数据结构2-2线段树/P4513_小白逛公园/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../数据结构2-2线段树/P4513_小白逛公园/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../数据结构2-2线段树/P4513_小白逛公园/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../数据结构2-2线段树/P4513_小白逛公园/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cache-v2-f36b5434e5f8dd84bb63.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-d632dc5ef48a1d582ac9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-bdd9a5cdbb831747ddb2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2024-08-30T09-36-19-0318.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/P1638__gallery.dir/main.cpp.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2024" />
+    <option name="minorVersion" value="1.4" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2mVBvi0xIBvs9QgQ3RQOnIHUSrv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "/Users/zzy/Documents/GitHub/Luogu_advanced/算法2-2常见优化技巧/算法2-2-双指针/P1638_逛画展_gallery",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="P1638__gallery" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="P1638__gallery" TARGET_NAME="P1638__gallery" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="P1638__gallery" RUN_TARGET_NAME="P1638__gallery">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95312078-76ce-4142-bf21-8201869930dc" name="Changes" comment="" />
+      <created>1727152096012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727152096012</updated>
+      <workItem from="1727152097346" duration="1805000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

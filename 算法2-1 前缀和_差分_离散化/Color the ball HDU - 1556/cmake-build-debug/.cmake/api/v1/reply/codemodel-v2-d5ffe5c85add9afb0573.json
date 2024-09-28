@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Color_the_ball_HDU___1556",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Color_the_ball_HDU___1556::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Color_the_ball_HDU___1556-Debug-52bfb21aee804d5cb46e.json",
+					"name" : "Color_the_ball_HDU___1556",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zzy/Documents/GitHub/Luogu_advanced/\u7b97\u6cd52-1 \u524d\u7f00\u548c_\u5dee\u5206_\u79bb\u6563\u5316/Color the ball HDU - 1556/cmake-build-debug",
+		"source" : "/Users/zzy/Documents/GitHub/Luogu_advanced/\u7b97\u6cd52-1 \u524d\u7f00\u548c_\u5dee\u5206_\u79bb\u6563\u5316/Color the ball HDU - 1556"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
