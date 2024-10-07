@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "D_bruteForce",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "D_bruteForce::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-D_bruteForce-Debug-786246e84b59e67abe38.json",
+					"name" : "D_bruteForce",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/zzy/Documents/GitHub/Luogu_advanced/\u6d1b\u8c37\u6bd4\u8d5b/\u3010LGR-197-Div.2\u3011\u6d1b\u8c37 10 \u6708\u6708\u8d5b I &\u300cSFMOI\u300dRound I/D_bruteForce/cmake-build-debug",
+		"source" : "/Users/zzy/Documents/GitHub/Luogu_advanced/\u6d1b\u8c37\u6bd4\u8d5b/\u3010LGR-197-Div.2\u3011\u6d1b\u8c37 10 \u6708\u6708\u8d5b I &\u300cSFMOI\u300dRound I/D_bruteForce"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
